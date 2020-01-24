@@ -1,6 +1,7 @@
 # Get your best restaurant in San Jose
 
 Download the video demo and check it out!
+
 https://github.com/Gualberto-Vannini/FoodApp/blob/master/src/demo.mov?raw=true
 
 # What I use :
